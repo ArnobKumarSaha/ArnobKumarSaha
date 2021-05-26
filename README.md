@@ -64,9 +64,11 @@ My primary hobbies are:
 
 
 ## &#x1f4c8; GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ArnobKumarSaha&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobKumarSaha&theme=tokyonight&layout=compact&langs_count=8&hide=tex, html, jupyter%20notebook&count_private=true" alt="arnob_stats" />
-</p>
+<a href="https://github.com/ArnobKumarSaha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobKumarSaha&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ArnobKumarSaha">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnobKumarSaha&show_icons=true&theme=light&line_height=27" alt="Arnob's github stats"/>
+</a>
 
 <img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=ArnobKumarSaha&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
