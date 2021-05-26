@@ -51,8 +51,8 @@ My primary hobbies are:
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![MongoDB](https://img.shields.io/badge/Scikit-Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)
-![Node / Express](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=F7931E)
+![Node / Express](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node&logoColor=white&color=563D7C)
 ![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
 
 
