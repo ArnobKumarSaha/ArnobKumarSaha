@@ -27,13 +27,13 @@ My primary hobbies are:
   <img align="left" alt="Arnob's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
 </a>
 <a href="https://discordapp.com/users/387932013962854401">
-  <img align="left" alt="Nirzak's Discord" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/discord.svg" />
+  <img align="left" alt="Arnob's Discord" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/discord.svg" />
 </a>
 <a href="https://www.facebook.com/rupkothar.arnob.9/">
-  <img align="left" alt="Nirjas Jakilim | Facebook" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/facebook.svg" />
+  <img align="left" alt="Arnob kumar saha | Facebook" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/facebook.svg" />
 </a>
 <a href="https://open.spotify.com/user/rtqsp9j73q577smzcry1fkvl6">
-  <img align="left" alt="Nirzak's Spotify" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/spotify.svg" />
+  <img align="left" alt="Arnob's Spotify" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/spotify.svg" />
 </a>
 
 ## ⚙️ Technologies & Tools
