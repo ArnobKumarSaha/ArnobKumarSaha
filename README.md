@@ -1,12 +1,8 @@
-### Hi there 👋
-
-
 
 - 🔭 I’m currently studying on Shahjalal University of science and technology
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about Competitive programming
+- 💬 My most favourite : Competitive programming
 - 😄 Pronouns: He / His
-- - 🌱 I’m currently learning Flutter and Docker
+- 🌱 I’m currently learning Flutter and Docker
 - ⚡ Fun fact: My existence.... Our existence !! 
 
 
