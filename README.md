@@ -22,7 +22,7 @@ My primary hobbies are:
 <a href="https://www.linkedin.com/in/arnob-kumar-saha-98308a208/">
   <img align="left" alt="Arnob's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
 </a>
-<a href="https://discordapp.com/users/387932013962854401">
+<a href="https://discordapp.com/users/773909421704478720">
   <img align="left" alt="Arnob's Discord" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/discord.svg" />
 </a>
 <a href="https://www.facebook.com/rupkothar.arnob.9/">
@@ -43,7 +43,6 @@ My primary hobbies are:
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
@@ -54,7 +53,6 @@ My primary hobbies are:
 
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android%20studio&logoColor=white&color=3DDC84)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=black&color=0078D6)
 
