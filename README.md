@@ -67,7 +67,7 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
         <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnobkumarsaha&count_private=true&theme=cobalt&layout=compact&langs_count=10">
     </a>
     <a align="right" href="https://github.com/Arnobkumarsaha?tab=repositories">
-        <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=Arnobkumarsaha&show_icons=true&theme=cobalt">
+        <img alt="Arnob's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=Arnobkumarsaha&show_icons=true&theme=cobalt">
     </a>
 </p>
 
