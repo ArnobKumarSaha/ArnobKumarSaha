@@ -11,17 +11,21 @@ My primary hobbies are:
 
 ![Profile views](https://gpvc.arturio.dev/ArnobKumarSaha)
 <a href="https://www.linkedin.com/in/arnob-kumar-saha-98308a208/">
-  <img align="left" alt="Arnob's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/linkedin.svg" />
 </a>
 <a href="https://discordapp.com/users/773909421704478720">
-  <img align="left" alt="Arnob's Discord" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/discord.svg" />
 </a>
 <a href="https://www.facebook.com/rupkothar.arnob.9/">
-  <img align="left" alt="Arnob kumar saha | Facebook" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/facebook.svg" />
+  <img align="left" alt="Arnob kumar saha | Facebook" width="22px" src="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/facebook.svg" />
 </a>
 <a href="https://open.spotify.com/user/rtqsp9j73q577smzcry1fkvl6">
-  <img align="left" alt="Arnob's Spotify" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/spotify.svg" />
+  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/spotify.svg" />
+
+<a href="https://codeforces.com/profile/DarkFloyd">
+  <img align="left" alt="DarkFloyd" width="22px" rc="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/codeforces.svg.svg" />
 </a>
+
 
 ## ⚙️ Technologies & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,7 +68,7 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
 ## &#x1f4c8; GitHub Stats
 <p>
     <a align="left" href="https://github.com/Arnobkumarsaha?tab=repositories">
-        <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnobkumarsaha&count_private=true&theme=cobalt&layout=compact&langs_count=10">
+        <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnobkumarsaha&count_private=true&theme=cobalt&layout=compact&hide=jupyter notebook,css,ejs,typescript,html,php,blade&langs_count=10">
     </a>
     <a align="right" href="https://github.com/Arnobkumarsaha?tab=repositories">
         <img alt="Arnob's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=Arnobkumarsaha&show_icons=true&theme=cobalt">
@@ -74,5 +78,7 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
 <!-- 
 <img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=ArnobKumarSaha&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnobkumarsaha&theme=react" alt="Arnobkumarsaha" /></p>
 
 
