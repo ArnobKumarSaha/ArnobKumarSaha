@@ -9,23 +9,17 @@ My primary hobbies are:
 - 🔭 I’m currently studying on Shahjalal University of science and technology
 - ⚡ Fun fact: My existence.... Our existence !! 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/arnob-kumar-saha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/DarkFloyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="DarkFloyd" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/rtqsp9j73q577smzcry1fkvl6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" /></a>
+<a href="https://twitter.com/ArnobKumarSaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rupkothar.arnob.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/773909421704478720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
 ![Profile views](https://gpvc.arturio.dev/ArnobKumarSaha)
-<a href="https://www.linkedin.com/in/arnob-kumar-saha-98308a208/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/linkedin.svg" />
-</a>
-<a href="https://discordapp.com/users/773909421704478720">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/discord.svg" />
-</a>
-<a href="https://www.facebook.com/rupkothar.arnob.9/">
-  <img align="left" alt="Arnob kumar saha | Facebook" width="22px" src="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/facebook.svg" />
-</a>
-<a href="https://open.spotify.com/user/rtqsp9j73q577smzcry1fkvl6">
-  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/spotify.svg" />
-
-<a href="https://codeforces.com/profile/DarkFloyd">
-  <img align="left" alt="DarkFloyd" width="22px" rc="https://raw.githubusercontent.com/Arnobkumarsaha/Arnobkumarsaha/main/Assets/codeforces.svg.svg" />
-</a>
-
 
 ## ⚙️ Technologies & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
