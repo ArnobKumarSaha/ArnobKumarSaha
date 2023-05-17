@@ -69,12 +69,12 @@ Languages & frameworks have been sorted as ...  most proficient on the left and 
     </a>
     <a align="right" href="https://github.com/Arnobkumarsaha?tab=repositories">
         <img alt="Arnob's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=Arnobkumarsaha&show_icons=true&theme=cobalt">
-</p>
+    </a>
+        
+![Arnob's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArnobKumarSaha&bg_color=000000&color=c87414&line=0a9948&point=ffffff&area=true&hide_border=true)
     
-<p>
-   [![Arnob's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArnobKumarSaha&bg_color=000000&color=c87414&line=0a9948&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   
 </p>
+
 
 <!-- 
 <img align="center" height="200px" src="https://github-profile-trophy.vercel.app/?username=ArnobKumarSaha&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
